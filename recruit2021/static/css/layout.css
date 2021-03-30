@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family: 'DOSGothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/DOSGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+* {
+    font-family: 'DOSGothic';
+}
+header{
+    position : fixed;
+    top : 0;
+    width : 100%;
+    z-index: 100;
+}
+.bg-light {
+    background-color: black!important;
+}
+/* 상단바 로고 */
+.navbar-brand {
+    margin-right: 0;
+}
+.navbar-brand > img {
+    width: 100px;
+    height: auto;
+}
+/* 상단바 메뉴 중앙 정렬 */
+.navbar-collapse > ul.navbar-nav.mr-auto{
+    display: flex;
+    margin: 0 auto;
+}
+/* 토글바 */
+.navbar-dark .navbar-toggler {
+    border: none;
+}
+.navbar-dark .navbar-toggler:focus{
+    text-decoration: none;
+    outline: none;
+}
+
+/* 상단바 텍스트 */
+#navbarText > ul.navbar-nav.mr-auto > li > a {
+    color: #ffffff;
+}
+#navbarText > ul.navbar-nav > li > a {
+    color: #ffffff;
+}
+#navbarText > ul > li > a{
+    color: #ffffff;
+}
+#navbarText > ul > li > div{
+    color: #ffffff;
+}

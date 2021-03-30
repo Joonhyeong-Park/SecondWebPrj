@@ -1,0 +1,10 @@
+.vscode/
+venv/
+myvenv/
+.idea/
+db.sqlite3
+migrations/
+mmvenv/
+__pycache__/
+secret_key.json
+resource/
