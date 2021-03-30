@@ -1,6 +1,8 @@
 # SecondWebPrj
 서강대 멋쟁이사자처럼 알럼나이 페이지였던것... 리크루팅 이후 내림, 첫 클래스뷰 구현
 
+![image](https://user-images.githubusercontent.com/55684184/113018622-b1a19280-91bb-11eb-85bf-ac638aca0df0.png)
+
 
 서비스 개요
  - 개발기간 : 2021.02 ~ 2020.03(배포)
