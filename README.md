@@ -1,5 +1,5 @@
 # SecondWebPrj
-OO대 멋쟁이사자처럼 알럼나이 페이지였던것... 리크루팅 이후 내림, 첫 클래스뷰 구현
+서강대 멋쟁이사자처럼 알럼나이 페이지였던것... 리크루팅 이후 내림, 첫 클래스뷰 구현
 
 ![113018622-b1a19280-91bb-11eb-85bf-ac638aca0df0](https://user-images.githubusercontent.com/55684184/139702463-d3f240cb-98dc-4d1a-827c-740c608fa8b9.png)
 
