@@ -1,7 +1,8 @@
 # SecondWebPrj
 OO대 멋쟁이사자처럼 알럼나이 페이지였던것... 리크루팅 이후 내림, 첫 클래스뷰 구현
 
-![KakaoTalk_20211017_233455347](https://user-images.githubusercontent.com/55684184/137632179-5aa5a077-3597-42e6-a872-d7ce0f3646bb.jpg)
+![113018622-b1a19280-91bb-11eb-85bf-ac638aca0df0](https://user-images.githubusercontent.com/55684184/139702463-d3f240cb-98dc-4d1a-827c-740c608fa8b9.png)
+
 
 
 
